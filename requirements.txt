@@ -1,0 +1,11 @@
+ipykernel
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+pandas
+ruff
+scikit-learn
+torch
+torchvision
+umap-learn
